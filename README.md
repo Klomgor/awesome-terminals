@@ -268,6 +268,7 @@ Terminal Emulators
  - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter [https://pandoc.org](https://pandoc.org)
  - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts. [https://www.shellcheck.net/](https://www.shellcheck.net/)
 ### Node
+ - [AgentBox](https://github.com/madarco/agentbox) - Run multiple coding agents in parallel, each in its own sandboxed VM, launched in detachable tmux sessions.
  - [catj](https://github.com/soheilpro/catj) - Displays JSON files in a flat format.
  - [cash](https://github.com/dthree/cash) - Cross-platform Linux commands in ES6.
  - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
